@@ -1,0 +1,4 @@
+FROM openjdk:latest
+EXPOSE 8080
+Add target/Dockerization using Jenkins Integration.jar Dockerization using Jenkins Integration.jar
+ENTRYPOINT["java","jar","/Dockerization using Jenkins Integration.jar"]
